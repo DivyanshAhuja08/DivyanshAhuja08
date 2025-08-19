@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>I'm a Computer Science and Engineering student at Chandigarh University, passionate about Machine Learning, Python, and Automation. I love solving real-world problems through efficient algorithms and full-stack development.<br><br>🔹 Currently Working On:<br><br>Machine Learning & Automation 🤖<br><br>Ed-Tech Full-Stack Website (MERN Stack) 📚<br><br>Optimized Graph Algorithms & Bitwise Operations ⚡<br><br>🔹 Tech Stack: Python, JavaScript, Node.js, React, Express, MongoDB, ML Libraries (NumPy, Pandas, TensorFlow)<br><br>I’m always open to collaborations and learning new things—let’s build something awesome! 🚀
+<br>I'm a Computer Science and Engineering student at Chandigarh University, passionate about Machine Learning, Python, and Automation. I love solving real-world problems through efficient algorithms and full-stack development.<br><br>🔹 Currently Working On:<br><br>Machine Learning & Automation 🤖<br><br>Ed-Tech Full-Stack Website (MERN Stack) 📚<br><br>🔹 Tech Stack: Python, JavaScript, Node.js, React, Express, MongoDB, ML Libraries (NumPy, Pandas, TensorFlow)<br><br>I’m always open to collaborations and learning new things—let’s build something awesome! 🚀
 
 
 ## 🌐 Socials:
