@@ -39,8 +39,7 @@
 
 ---
 
-📫 **Connect with Me**  
-- 🌐 [GitHub](https://github.com/DivyanshAhuja08)  
+📫 **Connect with Me**    
 - 💼 [LinkedIn](https://www.linkedin.com/in/divyanshahuja08)  
 - 🖥️ [LeetCode](https://leetcode.com/u/divyansh2005/)  
 - 🍴 [CodeChef](https://www.codechef.com/users/divyanshahuja)  
