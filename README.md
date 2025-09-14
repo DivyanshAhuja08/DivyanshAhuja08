@@ -22,7 +22,6 @@
 - **Frontend**: React.js, Tailwind CSS, HTML5, CSS3  
 - **Backend**: Node.js, Express.js, REST APIs  
 - **Databases**: MongoDB, MySQL  
-- **Mobile**: Flutter, Firebase Auth/Firestore/Storage  
 - **Tools**: Git, GitHub, Postman, Vercel, Render  
 - **Other Skills**: OOP, DSA, Authentication (JWT, OAuth), Cloud Deployment  
 
@@ -40,7 +39,8 @@
 ---
 
 📫 **Connect with Me**    
-- 💼 [LinkedIn](https://www.linkedin.com/in/divyanshahuja08)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/divyanshahuja08)
+  **Platform Links**    
 - 🖥️ [LeetCode](https://leetcode.com/u/divyansh2005/)  
 - 🍴 [CodeChef](https://www.codechef.com/users/divyanshahuja)  
 - 🔗 [Codeforces](https://codeforces.com/profile/Divyansh_Ahuja_08)  
