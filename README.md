@@ -40,6 +40,7 @@
 
 📫 **Connect with Me**    
 - 💼 [LinkedIn](https://www.linkedin.com/in/divyanshahuja08)
+-------------  
   **Platform Links**    
 - 🖥️ [LeetCode](https://leetcode.com/u/divyansh2005/)  
 - 🍴 [CodeChef](https://www.codechef.com/users/divyanshahuja)  
