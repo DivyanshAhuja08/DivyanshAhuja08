@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Divyansh Ahuja  
+# Hi  I'm Divyansh Ahuja  
 
 🎓 **About Me**  
 - B.E. CSE student at Chandigarh University (Class of 2027)  
