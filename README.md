@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated violet-blue-cyan gradient header banner with twinkling stars -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8a2be2,50:4158d0,100:08fdd8&height=220&section=header&text=Divyansh%20Ahuja&fontColor=ffffff&fontSize=52&fontAlignY=30&desc=Level%2021%20%E2%80%A2%20Backend%20Engineer%20%E2%80%A2%20LeetCode%20Knight&descColor=ffffff&descAlignY=55&descSize=16&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8a2be2,50:4158d0,100:08fdd8&height=220&section=header&text=Divyansh%20Ahuja&fontColor=ffffff&fontSize=52&fontAlignY=30&desc=Backend%20Engineer%20%E2%80%A2%20LeetCode%20Knight&descColor=ffffff&descAlignY=55&descSize=16&animation=twinkling" width="100%" />
 
 <!-- Dynamic Pixel Arcade Typing Console -->
 <!-- TYPING_SVG_START -->
@@ -70,15 +70,6 @@
 
 ---
 
-## 🏆 LIVE EARNED TROPHIES
-
-<div align="center">
-  <!-- Live trophies cabinet that animates on load -->
-  <img src="https://github-profile-trophy.vercel.app/?username=DivyanshAhuja08&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" />
-</div>
-
----
-
 ## 💻 DEPLOYED CAMPAIGNS
 
 ### 🚄 IRFIS (Railway Asset Tracker)
@@ -122,7 +113,6 @@
 ---
 
 ## 🌍 3D CONTRIBUTION LOG
-*(Note: This SVG compiles automatically via GitHub Action and loads once the workflow runs on your repository.)*
 
 <div align="center">
   <img width="80%" src="https://raw.githubusercontent.com/DivyanshAhuja08/DivyanshAhuja08/output/profile-3d-contrib/profile-green-animate.svg" alt="3D contribution graph" />
@@ -131,7 +121,7 @@
 ---
 
 ## 🕹️ INTERACTIVE CONTRIBUTION GRID
-*(Note: This SVG compiles automatically via GitHub Action and loads once the workflow runs on your repository.)*
+
 
 <div align="center">
 
