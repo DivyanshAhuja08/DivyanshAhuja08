@@ -10,9 +10,7 @@
 
 <br/>
 
-<!-- System Telemetry Visitor Counter & Badges -->
-<img src="https://komarev.com/normal-gradient.svg?username=DivyanshAhuja08&color=08fdd8&style=flat-square&label=SYSTEM_ACCESS_COUNT" />
-&nbsp;&nbsp;
+<!-- Status and Portfolio Badges -->
 <a href="mailto:divyanshahuja818@gmail.com"><img src="https://img.shields.io/badge/STATUS-OPEN_TO_OPPORTUNITIES-black?style=for-the-badge&labelColor=08fdd8&color=0d1117" /></a>
 &nbsp;&nbsp;
 <a href="https://divyanshahuja-dev.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-divyanshahuja.dev-black?style=for-the-badge&labelColor=8a2be2&color=0d1117" /></a>
@@ -95,30 +93,6 @@
 
 ---
 
-## 🌍 3D ISOMETRIC CONTRIBUTION VIEW
-
-<div align="center">
-  <!-- Dynamic 3D contribution model that rotates automatically -->
-  <img width="80%" src="https://raw.githubusercontent.com/DivyanshAhuja08/DivyanshAhuja08/output/profile-3d-contrib/profile-green-animate.svg" alt="3D contribution graph" />
-</div>
-
----
-
-## 🕹️ INTERACTIVE CONTRIBUTION GRID
-
-<div align="center">
-
-<!-- Animated Contribution Snake Game -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DivyanshAhuja08/DivyanshAhuja08/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DivyanshAhuja08/DivyanshAhuja08/output/github-snake.svg" />
-  <img alt="GitHub Snake Game" src="https://raw.githubusercontent.com/DivyanshAhuja08/DivyanshAhuja08/output/github-snake.svg" />
-</picture>
-
-</div>
-
----
-
 ## 📊 LIVE DIAGNOSTICS & TELEMETRY
 
 <div align="center">
@@ -143,6 +117,31 @@
   
   <!-- Glowing neon mint activity graph displaying live contributions -->
   <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=DivyanshAhuja08&bg_color=0d1117&color=ffffff&line=08fdd8&point=8a2be2&area=true&hide_border=true&area_color=08fdd8" />
+</div>
+
+---
+
+## 🌍 3D CONTRIBUTION LOG
+*(Note: This SVG compiles automatically via GitHub Action and loads once the workflow runs on your repository.)*
+
+<div align="center">
+  <img width="80%" src="https://raw.githubusercontent.com/DivyanshAhuja08/DivyanshAhuja08/output/profile-3d-contrib/profile-green-animate.svg" alt="3D contribution graph" />
+</div>
+
+---
+
+## 🕹️ INTERACTIVE CONTRIBUTION GRID
+*(Note: This SVG compiles automatically via GitHub Action and loads once the workflow runs on your repository.)*
+
+<div align="center">
+
+<!-- Animated Contribution Snake Game -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DivyanshAhuja08/DivyanshAhuja08/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DivyanshAhuja08/DivyanshAhuja08/output/github-snake.svg" />
+  <img alt="GitHub Snake Game" src="https://raw.githubusercontent.com/DivyanshAhuja08/DivyanshAhuja08/output/github-snake.svg" />
+</picture>
+
 </div>
 
 ---
