@@ -1,50 +1,176 @@
-# Hi  I'm Divyansh Ahuja  
+<div align="center">
 
-🎓 **About Me**  
-- B.E. CSE student at Chandigarh University (Class of 2027)  
-- Full Stack Web Developer & Software Engineer Enthusiast  
-- Strong programmer in **C++, Java, Python, and JavaScript**  
-- Passionate about **DSA & Competitive Programming** (700+ problems solved, Top 8% on LeetCode)  
+<!-- Animated violet-blue-cyan gradient header banner with twinkling stars -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8a2be2,50:4158d0,100:08fdd8&height=220&section=header&text=Divyansh%20Ahuja&fontColor=ffffff&fontSize=52&fontAlignY=30&desc=Level%2021%20%E2%80%A2%20Backend%20Engineer%20%E2%80%A2%20LeetCode%20Knight&descColor=ffffff&descAlignY=55&descSize=16&animation=twinkling" width="100%" />
 
----
+<!-- Dynamic Pixel Arcade Typing Console -->
+<!-- TYPING_SVG_START -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=600&size=14&duration=3000&pause=1000&color=08fdd8&center=true&vCenter=true&repeat=true&width=620&height=45&lines=Scanning+Core+Modules...;Access+Granted%3A+DivyanshAhuja08;Peak+Rating%3A+1982+%5BKnight%5D;1055+Problems+Solved...;Initializing+Algorithmic+Engine..." alt="Typing SVG" /></a>
+<!-- TYPING_SVG_END -->
 
-🔭 **What I’m Building**  
-| Project | Description | Link |  
-|---------|-------------|------|  
-| **Divfy** | A dynamic project from my GitHub showcasing web development skills and problem-solving | [Repo](https://github.com/DivyanshAhuja08/Divfy) |  
-| **LeetMetric** | A project for visualizing and analyzing LeetCode stats interactively | [Repo](https://github.com/DivyanshAhuja08/LeetMetric) |  
-| **Airport Finder** | React-based web app to search & find airports worldwide, deployed on GitHub Pages | [Website](https://divyanshahuja08.github.io/Airport-finder/) · [Repo](https://github.com/DivyanshAhuja08/Airport-finder) |  
-| **Student ID Card** | A web-based student ID card project showcasing HTML, CSS, and JS | [Repo](https://github.com/DivyanshAhuja08/Student-ID-Card) |  
+<br/>
 
----
+<!-- System Telemetry Visitor Counter & Badges -->
+<img src="https://komarev.com/normal-gradient.svg?username=DivyanshAhuja08&color=08fdd8&style=flat-square&label=SYSTEM_ACCESS_COUNT" />
+&nbsp;&nbsp;
+<a href="mailto:divyanshahuja818@gmail.com"><img src="https://img.shields.io/badge/STATUS-OPEN_TO_OPPORTUNITIES-black?style=for-the-badge&labelColor=08fdd8&color=0d1117" /></a>
+&nbsp;&nbsp;
+<a href="https://divyanshahuja-dev.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-divyanshahuja.dev-black?style=for-the-badge&labelColor=8a2be2&color=0d1117" /></a>
 
-💡 **Tech Stack**  
-- **Frontend**: React.js, Tailwind CSS, HTML5, CSS3  
-- **Backend**: Node.js, Express.js, REST APIs  
-- **Databases**: MongoDB, MySQL  
-- **Tools**: Git, GitHub, Postman, Vercel, Render  
-- **Other Skills**: OOP, DSA, Authentication (JWT, OAuth), Cloud Deployment  
+</div>
 
 ---
 
-🏆 **Achievements & Highlights**  
-- 🥇 1st Place – Coding Competition 2.0, Chandigarh University  
-- 🥈 2nd Place – Hackathon, Chandigarh University  
-- 🥈 2nd Place – Coding Competition: Real Life Problem, Chandigarh University  
-- 🎯 Rankings:  
-  - LeetCode (Max 1792, Top 8%)  
-  - CodeChef (1413, Top 15%)  
-  - Codeforces (1190, Top 20%)  
+## 🕹️ SYS_LOG: SKILL INVENTORY & ATTRIBUTES
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧬 Core Systems</h3>
+      <ul>
+        <li><b>HP (Experience)</b>: Research Intern @ IIT Ropar (C++ Cache Security)
+          <ul>
+            <li>Designed architectures in ChampSim</li>
+            <li>Optimized cache defenses against attacks (+15% security)</li>
+          </ul>
+        </li>
+        <li><b>Factions & Club</b>: Technical Co-Lead @ Eloquence Consortium Club
+          <ul>
+            <li>Managed platform for 5000+ users</li>
+            <li>Managed tech ops for 20+ hackathons</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏆 Quest Achievements</h3>
+      <ul>
+        <li><b>Algorithm Class</b>: LeetCode Knight ⚔️ (Peak 1982)</li>
+        <li><b>Codeforces Standing</b>: Specialist</li>
+        <li><b>Problem Bank</b>: <!-- LEETCODE_TOTAL_START -->1055<!-- LEETCODE_TOTAL_END --> solved on LeetCode</li>
+        <li><b>Contest Awards</b>:
+          <ul>
+            <li>🥇 1st Place - Coding Competition 2.0 (CU)</li>
+            <li>🥈 2nd Place - AlgoArena 2.0 (Droidlinx)</li>
+            <li>🚀 National Semi-Finalist - Flipkart GRID</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-📫 **Connect with Me**    
-- 💼 [LinkedIn](https://www.linkedin.com/in/divyanshahuja08)
--------------  
-  **Platform Links**    
-- 🖥️ [LeetCode](https://leetcode.com/u/divyansh2005/)  
-- 🍴 [CodeChef](https://www.codechef.com/users/divyanshahuja)  
-- 🔗 [Codeforces](https://codeforces.com/profile/Divyansh_Ahuja_08)  
-- 📘 [Codolio](https://codolio.com/profile/ypVw6hwn)  
+## 🛠️ ACTIVE TECH INDEX
+
+<div align="center">
+  <br/>
+  <!-- High-contrast grid of technologies -->
+  <img src="https://skillicons.dev/icons?i=cpp,js,ts,py,postgres,mongodb,redis,docker,githubactions,linux,react,nextjs,spring,nodejs,express,mysql" alt="Tech Stack Icons" />
+</div>
 
 ---
+
+## 🏆 LIVE EARNED TROPHIES
+
+<div align="center">
+  <!-- Live trophies cabinet that animates on load -->
+  <img src="https://github-profile-trophy.vercel.app/?username=DivyanshAhuja08&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 💻 DEPLOYED CAMPAIGNS
+
+### 🚄 IRFIS (Railway Asset Tracker)
+- **Stack**: `React.js` `Node.js` `Express` `MongoDB`
+- **Telemetry**: Indian Railway asset tracking system using QR codes. Optimized database queries for real-time operation lookup.
+- **Link**: [Deployed App Details](https://divyanshahuja-dev.vercel.app/)
+
+### 🏢 Enterprise HR Management System
+- **Stack**: `Node.js` `Express.js` `PostgreSQL`
+- **Telemetry**: Automated payroll, employee records, and leave management modules backed by relational PostgreSQL queries.
+- **Link**: [Deployed App Details](https://divyanshahuja-dev.vercel.app/)
+
+---
+
+## 🌍 3D ISOMETRIC CONTRIBUTION VIEW
+
+<div align="center">
+  <!-- Dynamic 3D contribution model that rotates automatically -->
+  <img width="80%" src="https://raw.githubusercontent.com/DivyanshAhuja08/DivyanshAhuja08/output/profile-3d-contrib/profile-green-animate.svg" alt="3D contribution graph" />
+</div>
+
+---
+
+## 🕹️ INTERACTIVE CONTRIBUTION GRID
+
+<div align="center">
+
+<!-- Animated Contribution Snake Game -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DivyanshAhuja08/DivyanshAhuja08/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DivyanshAhuja08/DivyanshAhuja08/output/github-snake.svg" />
+  <img alt="GitHub Snake Game" src="https://raw.githubusercontent.com/DivyanshAhuja08/DivyanshAhuja08/output/github-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+## 📊 LIVE DIAGNOSTICS & TELEMETRY
+
+<div align="center">
+
+  <!-- Dynamic LeetCode Statistics Card -->
+  <img src="https://leetcard.jacoblin.cool/divyansh2005?theme=dark&font=Fira%20Code" alt="LeetCode Card" />
+  
+  <br/><br/>
+
+  <!-- Animated GitHub Stats Card -->
+  <img height="185" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DivyanshAhuja08&show_icons=true&bg_color=0d1117&hide_border=true&icon_color=08fdd8&title_color=08fdd8&text_color=ffffff&count_private=true&include_all_commits=true" />
+  &nbsp;&nbsp;
+  <!-- Animated Language Breakdown Card -->
+  <img height="185" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DivyanshAhuja08&layout=compact&bg_color=0d1117&hide_border=true&title_color=8a2be2&text_color=ffffff&langs_count=8" />
+  
+  <br/><br/>
+  
+  <!-- Flaming Github Streak Stats Widget -->
+  <img width="60%" src="https://streak-stats.demolab.com?user=DivyanshAhuja08&theme=dark&background=0d1117&hide_border=true&ring=08fdd8&fire=8a2be2&currStreakLabel=08fdd8&sideLabels=08fdd8&currStreakNum=ffffff&sideNums=ffffff&dates=555555" />
+  
+  <br/><br/>
+  
+  <!-- Glowing neon mint activity graph displaying live contributions -->
+  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=DivyanshAhuja08&bg_color=0d1117&color=ffffff&line=08fdd8&point=8a2be2&area=true&hide_border=true&area_color=08fdd8" />
+</div>
+
+---
+
+## ✉️ CONNECT CONSOLE
+
+<div align="center">
+<br/>
+
+<a href="https://divyanshahuja-dev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=08fdd8" /></a>
+&nbsp;&nbsp;
+<a href="https://linkedin.com/in/divyanshahuja08"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=8a2be2" /></a>
+&nbsp;&nbsp;
+<a href="https://github.com/DivyanshAhuja08"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=08fdd8" /></a>
+&nbsp;&nbsp;
+<a href="https://leetcode.com/u/divyansh2005/"><img src="https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=8a2be2" /></a>
+&nbsp;&nbsp;
+<a href="https://codeforces.com/profile/Divyansh_Ahuja_08"><img src="https://img.shields.io/badge/Codeforces-0d1117?style=for-the-badge&logo=codeforces&logoColor=08fdd8" /></a>
+&nbsp;&nbsp;
+<a href="mailto:divyanshahuja818@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=8a2be2" /></a>
+
+<br/><br/>
+
+```
+$ echo "An algorithm must be seen to be believed." # — Donald Knuth
+```
+
+<!-- Animated footer matching header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:08fdd8,50:4158d0,100:8a2be2&height=100&section=footer" width="100%" />
+
+</div>
