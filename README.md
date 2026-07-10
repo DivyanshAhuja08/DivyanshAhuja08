@@ -113,6 +113,7 @@
 ---
 
 ## 🌍 3D CONTRIBUTION LOG
+*(Note: This SVG compiles automatically via GitHub Action and loads once the workflow runs on your repository.)*
 
 <div align="center">
   <img width="80%" src="https://raw.githubusercontent.com/DivyanshAhuja08/DivyanshAhuja08/output/profile-3d-contrib/profile-green-animate.svg" alt="3D contribution graph" />
@@ -121,7 +122,7 @@
 ---
 
 ## 🕹️ INTERACTIVE CONTRIBUTION GRID
-
+*(Note: This SVG compiles automatically via GitHub Action and loads once the workflow runs on your repository.)*
 
 <div align="center">
 
