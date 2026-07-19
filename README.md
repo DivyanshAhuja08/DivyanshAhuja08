@@ -5,7 +5,7 @@
 
 <!-- Dynamic Pixel Arcade Typing Console -->
 <!-- TYPING_SVG_START -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=600&size=14&duration=3000&pause=1000&color=08fdd8&center=true&vCenter=true&repeat=true&width=620&height=45&lines=Scanning+Core+Modules...;Access+Granted%3A+DivyanshAhuja08;Peak+Rating%3A+1982+%5BKnight%5D;1065+Problems+Solved...;Initializing+Algorithmic+Engine..." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=600&size=14&duration=3000&pause=1000&color=08fdd8&center=true&vCenter=true&repeat=true&width=620&height=45&lines=Scanning+Core+Modules...;Access+Granted%3A+DivyanshAhuja08;Peak+Rating%3A+1982+%5BKnight%5D;1068+Problems+Solved...;Initializing+Algorithmic+Engine..." alt="Typing SVG" /></a>
 <!-- TYPING_SVG_END -->
 
 <br/>
@@ -45,7 +45,7 @@
       <ul>
         <li><b>Algorithm Class</b>: LeetCode Knight ⚔️ (Peak 1982)</li>
         <li><b>Codeforces Standing</b>: Specialist</li>
-        <li><b>Problem Bank</b>: <!-- LEETCODE_TOTAL_START -->1065<!-- LEETCODE_TOTAL_END --> solved on LeetCode</li>
+        <li><b>Problem Bank</b>: <!-- LEETCODE_TOTAL_START -->1068<!-- LEETCODE_TOTAL_END --> solved on LeetCode</li>
         <li><b>Contest Awards</b>:
           <ul>
             <li>🥇 1st Place - Coding Competition 2.0 (CU)</li>
